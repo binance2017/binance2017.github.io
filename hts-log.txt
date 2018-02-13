@@ -1,0 +1,27 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 14 Feb 2018 02:03:57 at https://support.binance.com/hc/en-us/articles/360000850171-System-Upgrade-Completed +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://support.binance.com/hc/en-us/articles/360000850171-System-Upgrade-Completed -O1 "D:\bin\bin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:04:55	Warning: 	Retry after error -4 (Connect Error) at link www.google-analytics.com/analytics.js (from https://support.binance.com/hc/en-us/articles/360000850171-System-Upgrade-Completed)
+02:05:10	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/360000850171-System-Upgrade-Completed/subscription (from https://support.binance.com/hc/en-us/articles/360000850171-System-Upgrade-Completed)
+02:05:10	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/POST (from https://support.binance.com/hc/en-us/articles/360000850171-System-Upgrade-Completed)
+02:06:30	Warning: 	Retry after error -4 (Connect Error) at link www.google-analytics.com/analytics.js (from https://support.binance.com/hc/en-us/articles/360000850171-System-Upgrade-Completed)
+02:06:30	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/360000851071-Happy-Valentine-s-Day-GTO-Lucky-Draw-and-Trading-Competition/subscription (from https://support.binance.com/hc/en-us/articles/360000851071-Happy-Valentine-s-Day-GTO-Lucky-Draw-and-Trading-Competition)
+02:06:30	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/360000849751-System-Upgrade-Notice/subscription (from https://support.binance.com/hc/en-us/articles/360000849751-System-Upgrade-Notice)
+02:06:31	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/360000765312-System-Upgrade-Completed/subscription (from https://support.binance.com/hc/en-us/articles/360000765312-System-Upgrade-Completed)
+02:06:31	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/360000759592-Extension-of-TRIG-Competition-and-Postponement-of-Community-Coin-of-the-Month-Round-6/subscription (from https://support.binance.com/hc/en-us/articles/360000759592-Extension-of-TRIG-Competition-and-Postponement-of-Community-Coin-of-the-Month-Round-6)
+02:06:54	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/360000778631-System-Upgrade-Notice/subscription (from https://support.binance.com/hc/en-us/articles/360000778631-System-Upgrade-Notice)
+02:06:54	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/360000737572-System-Upgrade-Complete/subscription (from https://support.binance.com/hc/en-us/articles/360000737572-System-Upgrade-Complete)
+02:06:54	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/360000754711-System-Upgrade-Latest-Update/subscription (from https://support.binance.com/hc/en-us/articles/360000754711-System-Upgrade-Latest-Update)
+02:06:54	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/360000713851-System-Upgrade-Extension/subscription (from https://support.binance.com/hc/en-us/articles/360000713851-System-Upgrade-Extension)
+02:06:55	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/360000710431-System-already-in-upgrade/subscription (from https://support.binance.com/hc/en-us/articles/360000710431-System-already-in-upgrade)
+02:06:55	Error: 	"Connect Error" (-4) after 2 retries at link www.google-analytics.com/analytics.js (from https://support.binance.com/hc/en-us/articles/360000850171-System-Upgrade-Completed)
+02:06:55	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/360000496951-Triggers-Competition-1-000-Spots-Available-to-Share-a-Pool-of-154-500-TRIG-/subscription (from https://support.binance.com/hc/en-us/articles/360000496951)
+02:06:55	Error: 	"Not Found" (404) at link https://support.binance.com/hc/en-us/articles/360000598531-Community-Coin-of-the-Month-Round-6/subscription (from https://support.binance.com/hc/en-us/articles/360000598531)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 58 seconds : 51 links scanned, 33 files written (3574418 bytes overall) [3254618 bytes received at 18284 bytes/sec], 732319 bytes transferred using HTTP compression in 34 files, ratio 31%, 1.9 requests per connection
+(14 errors, 2 warnings, 0 messages)
